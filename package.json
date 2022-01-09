@@ -1,0 +1,24 @@
+{
+  "name": "06.sass-custom-library",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/marizoo/custom-sass-library.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/marizoo/custom-sass-library/issues"
+  },
+  "homepage": "https://github.com/marizoo/custom-sass-library#readme",
+  "devDependencies": {
+    "gulp": "^4.0.2",
+    "gulp-sass": "^5.1.0",
+    "sass": "^1.47.0"
+  }
+}
